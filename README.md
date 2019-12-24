@@ -9,7 +9,7 @@ Main Panel consists of: Plot, Summary, Table
 
 * Descriptive analytics techniques -> Box Plot, Density Curve 
 
-* Probabilistic model -> Discrete (Binomial Distribution), Continuous (Normal Distribution) 
+* Probabilistic models -> Discrete (Binomial Distribution), Continuous (Normal Distribution) 
 
 * Hypothesis testing
 
