@@ -3,22 +3,13 @@ Development of Statistical Analytics App
 An application has been developed for the real dataset of “LungCap Dataset” to showcase descriptive analytics. 
 Entire code is embedded in a single app.R with ui and server codes.
 
-Side Panel consists of:
-  o Sidebar panel
-  o Conditions/Dropdown Options o Radio Buttons
+Side Panel consists of: Sidebar panel, Dropdown box, Radio Buttons
 
-Main Panel consists of: 
-  o Plot
-  o Summary 
-  o Table
+Main Panel consists of: Plot, Summary, Table
 
-* Descriptive analytics techniques: 
-  o Box Plot
-  o Density Curve 
+* Descriptive analytics techniques -> Box Plot, Density Curve 
 
-* Probabilistic model
-  o Discrete (Binomial Distribution)
-  o Continuous (Normal Distribution) 
+* Probabilistic model -> Discrete (Binomial Distribution), Continuous (Normal Distribution) 
 
 * Hypothesis testing
 
