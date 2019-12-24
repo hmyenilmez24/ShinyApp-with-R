@@ -8,9 +8,11 @@ Side Panel consists of: Sidebar panel, Dropdown box, Radio Buttons
 Main Panel consists of: Plot, Summary, Table
 
 * Descriptive analytics techniques -> Box Plot, Density Curve 
+![Box plot](images/descriptive analytics/box plot/plot.png)
 
 * Probabilistic models -> Discrete (Binomial Distribution), Continuous (Normal Distribution) 
 
 * Hypothesis testing
 
 * Linear Regression
+
