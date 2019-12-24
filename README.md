@@ -8,7 +8,7 @@ Side Panel consists of: Sidebar panel, Dropdown box, Radio Buttons
 Main Panel consists of: Plot, Summary, Table
 
 * Descriptive analytics techniques -> Box Plot, Density Curve 
-![Box plot](images/descriptive analytics/box plot/plot.png)
+![Box plot](https://github.com/hmyenilmez24/ShinyApp/blob/master/images/descriptive%20analytics/box%20plot/plot.png)
 
 * Probabilistic models -> Discrete (Binomial Distribution), Continuous (Normal Distribution) 
 
