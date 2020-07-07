@@ -1,4 +1,4 @@
-# ShinyApp
+# ShinyApp-with-R
 Development of Statistical Analytics App
 
 An application has been developed for the real dataset “LungCap Dataset” to show descriptive analytics. 
