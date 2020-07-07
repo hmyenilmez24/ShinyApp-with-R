@@ -1,7 +1,7 @@
 # ShinyApp-with-R
 Development of Statistical Analytics App
 
-An application has been developed for the real dataset “LungCap Dataset” to show descriptive analytics. 
+An application has been developed with the real dataset “LungCap Dataset” to show descriptive analytics. 
 Entire code is embedded in a single app.R with ui and server codes.
 
 Side Panel consists of: Sidebar panel, Dropdown box, Radio Buttons
